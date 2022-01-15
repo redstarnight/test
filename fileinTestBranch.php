@@ -8,7 +8,7 @@
         git checkout "Branch name"
         git pull 
         git push
-        git merge 
+        git merge "Branch name"
         git status
     
     ";
