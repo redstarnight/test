@@ -5,6 +5,8 @@
             return ($x>$y);
         }
     }
-    $test = new test14();
-    echo $test->test(20,10);
+    $x=10;
+    $y=20;
+    $testclass = new test14();
+    echo $testclass->test(20,10);
 ?>
