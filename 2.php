@@ -11,6 +11,4 @@
         echo "False";
     }
 
-    hello
-    sdsdsdsd
 ?>
